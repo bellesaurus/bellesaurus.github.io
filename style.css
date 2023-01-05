@@ -114,6 +114,10 @@ nav.navbar ul li a:hover:after {
   font-style: italic;
 }
 
+.under_construction{
+    font-size: 45px;
+}
+
 .btn{
   padding: 10px 20px;
   border-radius: 10px;
