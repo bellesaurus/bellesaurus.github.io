@@ -13,3 +13,4 @@ I hope you enjoy!
 
 ## Helpful Links
 - [How to create a Working Blogging Website](https://dev.to/kunaal438/fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di)
+- [NavBar Animation](https://codepen.io/maheshambure21/pen/QwXaRw)

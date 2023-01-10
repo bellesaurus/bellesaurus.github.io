@@ -1,0 +1,24 @@
+{
+  "name": "bellesaurus.github.io",
+  "version": "1.0.0",
+  "description": "Hello! My name is Zahlia, otherwise known as Bellesaurus. I made this website almost completely from scratch with the help of some creators I've listed down below.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellesaurus/bellesaurus.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellesaurus/bellesaurus.github.io/issues"
+  },
+  "homepage": "https://github.com/bellesaurus/bellesaurus.github.io#readme",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
