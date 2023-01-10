@@ -1,4 +1,3 @@
-//Importing packages needed
 const express = require('express');
 const path = require('path');
 const fileupload = require('express-fileupload');
@@ -9,18 +8,15 @@ const app = express();
 app.use(express.static(initial_path));
 app.use(fileupload());
 
-app.get('/', (req, res) =>{
+app.get('/', (req, res) => {
     res.sendFile(path.join(initial_path, "index.html"));
 })
 
-app.listen("3000", () => {
-    console.log('Im listening...');
-})
-
-app.get('/blog', (req, res) =>{
+app.get('/editor', (req, res) => {
     res.sendFile(path.join(initial_path, "editor.html"));
 })
 
+// upload link
 app.post('/upload', (req, res) => {
     let file = req.files.image;
     let date = new Date();
@@ -46,4 +42,8 @@ app.get("/:blog", (req, res) => {
 
 app.use((req, res) => {
     res.json("404");
+})
+
+app.listen("3000", () => {
+    console.log('listening......');
 })
