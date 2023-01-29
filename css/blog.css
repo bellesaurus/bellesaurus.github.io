@@ -49,6 +49,7 @@ body{
     background-color: #fff;
     border: 1px solid #2e294e;
     margin: 20px;
+    box-shadow: 10px 10px #2e294e;
 }
 .blog-img{
     width: 100%;
@@ -65,9 +66,8 @@ body{
     display: flex;
     flex-direction: column;
 }
-
 .blog-text span{
-    color: black;
+    color: #272727;
     font-size: 0.9rem;
 }
 .blog-text .blog-title{
@@ -75,9 +75,14 @@ body{
     font-weight: 500;
     color: #272727;
 }
-.blog-text .blog-title:hover{
+/*---Hover Effect---*/
+.blog-box:hover .blog-text .blog-title{
     color: #c95d63;
-    transition: all ease 0.5s;
+    transition: all ease 0.5s; 
+}
+.blog-box:hover .blog-text a{
+    color: #c95d63;
+    transition: all ease 0.5s; 
 }
 .blog-text p{
     color: #9b9b9b;
@@ -89,13 +94,15 @@ body{
     text-overflow: ellipsis;
     margin: 20px 0px;
 }
+
 .blog-text a{
     color: #0f0f0f;
-}
+    transition: all ease-in-out 0.5s;
+} 
 .blog-text a:hover{
     color: #c95d63;
-    transition: all ease 0.5s;
 }
+
 
 @media(max-width:1250px){
 
