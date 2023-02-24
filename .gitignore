@@ -3,3 +3,7 @@
 
 # depedencies
 /node_modules
+
+# unneeded files
+/firebase.js
+/editor.js
