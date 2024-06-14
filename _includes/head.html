@@ -107,9 +107,9 @@
   {% endif %} {% include matomo.html %} {% if page.comments and
   site.staticman.repository and site.staticman.branch %} <link rel="stylesheet"
   href="{{ "/assets/css/staticman.css" | relative_url }}"> {% endif %} {% assign
-  favicon_exists = site.static_files | where: "path", "/Bellesaurus.png" | size
+  favicon_exists = site.static_files | where: "path", "/assets/img/Bellesaurus.png" | size
   %} {% if favicon_exists == 1 %}
-  <link rel="icon" href="{{ '/Bellesaurus.png' | relative_url }}" />
+  <link rel="icon" href="{{ '/assets/img/Bellesaurus.png' | relative_url }}" />
   {% endif %} {% if page.head-extra %} {% for file in page.head-extra %} {%
   include {{ file }} %} {% endfor %} {% endif %}
 </head>
