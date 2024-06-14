@@ -10,6 +10,10 @@ My name is Zahlia Hamer and I am a budding cybersecurity enthusiast studying at 
 
 {Insert story here}
 
+### My achievements
+- Okta Professional Certification 2024
+- Women in Security Best Security Student Award Nomination 2024
+
 
 ### Resume
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
@@ -20,8 +24,4 @@ My name is Zahlia Hamer and I am a budding cybersecurity enthusiast studying at 
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIFXybyb4&#x2F;mfcY71XgrC4RsUUUiQk3CA&#x2F;view?utm_content=DAGIFXybyb4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
-
-### My achievements
-- Okta Professional Certification 2024
-- Women in Security Best Security Student Award Nomination 2024
 
