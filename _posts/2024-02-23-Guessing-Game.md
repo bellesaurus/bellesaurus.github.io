@@ -12,4 +12,4 @@ author: Zahlia Hamer
 
 A guessing game you run in the cli! 5 strikes and you're out!
 
-This was my first attempt at something simple to help me get more comfortable with Java outside of university projects. Since most of our projects are prebuilt that we are altering, I wanted to slowly build up my coding skills by starting with more basic projects and building up.
+This was my first attempt at something simple to help me get more comfortable with Java outside of university projects. Since most of our projects are prebuilt that we are altering, I wanted to slowly build up my coding skills by starting with more basic projects and building up. You can access it [here](https://github.com/bellesaurus/GuessingGame).
