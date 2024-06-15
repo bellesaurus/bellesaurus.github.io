@@ -21,6 +21,7 @@ author: Zahlia Hamer
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
