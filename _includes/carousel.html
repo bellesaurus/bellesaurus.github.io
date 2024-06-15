@@ -24,13 +24,6 @@
               <label class="carousel__control carousel__control--forward" for="{{ number }}{{ nextletter }}"></label>
           </div>
         {% endfor %}
-        <div class="carousel__track">
-          <ul>
-            {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
-            {% endfor %}
-          </ul>
-        </div>
         <div class="carousel__indicators">
             {% for item in page.carousels[number].images %}
               <label class="carousel__indicator" for="{{ number }}{{ letters[forloop.index0] }}"></label>
@@ -126,19 +119,8 @@
 .carousel__indicator:hover {
   opacity: 0.75;
 }
-.carousel__track {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 0;
-  margin: 0;
-  transition: -webkit-transform 0.5s ease 0s;
-  transition: transform 0.5s ease 0s;
-  transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
-}
-.carousel__track .carousel__slide {
+
+.carousel__slide {
   display: block;
   top: 0;
   left: 0;
