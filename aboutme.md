@@ -4,7 +4,11 @@ title: About me
 subtitle: Learn more about me and my journey!
 ---
 
+<img align="right" width="100" height="100" src="/assets/img/ProfilePic2.jpg">
+
 My name is Zahlia Hamer and I am a budding cybersecurity enthusiast studying at Macquarie University.
+
+
 
 ### My story
 
