@@ -8,11 +8,16 @@ My name is Zahlia Hamer and I am a budding cybersecurity enthusiast studying at 
 
 ### My story
 
-{Insert story here}
+I have been in a customer service role for roughly 10+ years from working at markets with my parents to being an apprentice jeweller at a bespoke family jewellery business. I was also a Data Manager for almost 4 years where I started in Data Entry and worked my way up to managing a database as well as implementing technology solutions around the office. I had many factors impacting my decision to go into the technology sector including family, my growth in my previous job as a Data Manager as well as being part of the computing society at Macquarie University.
+
+My current endeavours include my presidency at the [Macquarie Association of Computing Students (MACS)](https://macs.codes/), working in the Outreach Team at the Faculty of Science and Engineering, being a Computing Drop-In Centre Tutor as well as competing in multiple Capture the Flag challenges with the Women in Cyber team and the MQCybersec team at Macquarie University.
 
 ### My achievements
 - Okta Professional Certification 2024
-- Women in Security Best Security Student Award Nomination 2024
+- 2024 Nominee for Best Security Student Award - Women in Security Awards
+- Panelist at Women in Cybersecurity Panel 2023
+- 1st Place in MQU Team at SecEdu CTF 2023
+- 3rd Place in Women's Team at DownUnderCTF 2023
 
 
 ### Resume
