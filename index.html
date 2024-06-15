@@ -3,13 +3,15 @@ layout: home
 title: My Website
 subtitle: Welcome to my website, have a look around!
 carousels:
-  - images: 
-    - image: /assets/photo-gallery/image1.jpg
-    - image: /assets/photo-gallery/image2.jpg
-    - image: /assets/photo-gallery/image3.jpg
-    - image: /assets/photo-gallery/image4.jpg
-  - images: 
-    - image: /assets/photo-gallery/image5.jpg
-    - image: /assets/photo-gallery/image6.jpg
-    - image: /assets/photo-gallery/image7.jpg
+  - images:
+      - image: /assets/photo-gallery/image1.jpg
+      - image: /assets/photo-gallery/image2.jpg
+      - image: /assets/photo-gallery/image3.jpg
+  - images:
+      - image: /assets/photo-gallery/image4.jpg
+      - image: /assets/photo-gallery/image5.jpg
+      - image: /assets/photo-gallery/image6.jpg
 ---
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %} {%
+include carousel.html height="50" unit="%" duration="7" number="2" %}
