@@ -4,7 +4,7 @@ title: About me
 subtitle: Learn more about me and my journey!
 ---
 
-<img align="right" src="/assets/img/ProfilePic2.jpg" style="height:150px; border-radius: 50%; border: 7px solid #2E294E;">
+<img align="right" src="/assets/img/ProfilePic2.jpg" style="height:150px; border-radius: 50%; box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);">
 
 My name is Zahlia Hamer (aka Bellesaurus) and I am a budding cybersecurity enthusiast studying at Macquarie University and graduating in 2024.
 
