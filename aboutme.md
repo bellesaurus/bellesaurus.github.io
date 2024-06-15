@@ -33,3 +33,14 @@ My current endeavours include my presidency at the [Macquarie Association of Com
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIFXybyb4&#x2F;mfcY71XgrC4RsUUUiQk3CA&#x2F;view?utm_content=DAGIFXybyb4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
 
+<script>
+const iframe = document.getElementById('myIframe');
+
+iframe.addEventListener('error', function() {
+  console.log('Iframe failed to load, to view my resume, please go [here](https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIFXybyb4&#x2F;mfcY71XgrC4RsUUUiQk3CA&#x2F;view?utm_content=DAGIFXybyb4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link)');
+  // You can also check the reason for the failure
+  const reason = (iframe.contentWindow.location.protocol === 'https:') ? 'Mixed Content' : 'Insecure Content';
+  console.log(`Reason: ${reason}`);
+});
+</script>
+
