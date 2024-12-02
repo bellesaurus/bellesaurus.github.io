@@ -22,7 +22,7 @@ Hello there workshoppers! I'm so glad to see you. Welcome to MACSCON 2024!
 1. Lists
 2. Omg!
 
-```java
+```python
 
 System.out.println("Hello World!");
 
