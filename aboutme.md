@@ -17,7 +17,7 @@ My current endeavours include my presidency at the [Macquarie Association of Com
 
 ### My achievements
 - Okta Professional Certification 2024
-- 2024 Nominee for Best Security Student Award - Women in Security Awards
+- 2024 Finalist for Best Security Student Award - Women in Security Awards
 - Panelist at Women in Cybersecurity Panel 2023
 - 1st Place in MQU Team at SecEdu CTF 2023
 - 3rd Place in Women's Team at DownUnderCTF 2023
