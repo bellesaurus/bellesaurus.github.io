@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [HTB Write-Up] Flag Command
+title: HTB Write-Up | Flag Command
 tags: [HTB, Write-Up]
 # comments: true
 # mathjax: true
